@@ -1,0 +1,8 @@
+dependencies:
+  - recipe: textify::install
+  - recipe: textify::experiment
+    local:
+      - textify::install
+    global:
+
+
