@@ -4,5 +4,6 @@ dependencies:
     local:
       - textify::install
     global:
+      - hadoop::dn
 
 
